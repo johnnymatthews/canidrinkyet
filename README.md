@@ -11,4 +11,4 @@ A website that tells you when you can drink, following a simple set of rules. Ho
 1. No drinking and driving.
 1. **Special quarantine rule**: you must be awake for at least 5 hours before drinking.
 
-* Substitute your prefered religious holiday.
+\* Substitute your prefered religious holiday.
